@@ -30,6 +30,15 @@ main:
     bibtex: ./assets/bib/arxiv2024.bib
     image: ./assets/img/arxiv2024.png
 
+  - title: "Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning"
+    authors: Hanqi Yan, Qinglin Zhu, <strong style="font-weight:900">Xinyu Wang</strong>, Lin Gui, Yulan He
+    conference_short:
+    conference: In Submission.
+    page: https://arxiv.org/abs/2402.14963
+    pdf: https://arxiv.org/pdf/2402.14963.pdf
+    bibtex: ./assets/bib/arxiv2024hanqi.bib
+    image: ./assets/img/arxiv2024hanqi.png
+
   - title: A Scalable Framework for Table of Contents Extraction from Complex ESG Annual Reports
     authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Lin Gui, Yulan He
     conference_short: EMNLP
