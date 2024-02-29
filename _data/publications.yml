@@ -29,6 +29,7 @@ main:
     pdf: https://arxiv.org/pdf/2402.14522.pdf
     bibtex: ./assets/bib/arxiv2024.bib
     image: ./assets/img/arxiv2024.png
+    code: ./assets/slides/arxiv2024.pdf
 
   - title: "Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning"
     authors: Hanqi Yan, Qinglin Zhu, <strong style="font-weight:900">Xinyu Wang</strong>, Lin Gui, Yulan He
