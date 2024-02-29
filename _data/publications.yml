@@ -47,6 +47,7 @@ main:
     pdf: https://aclanthology.org/2023.emnlp-main.816.pdf
     bibtex: ./assets/bib/emnlp2023.bib
     image: ./assets/img/emnlp2023.jpg
+    code: ./assets/slides/emnlp2023.pdf
 
   - title: Document-Level Multi-Event Extraction with Event Proxy Nodes and Hausdorff Distance Minimization
     authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Lin Gui, Yulan He
@@ -56,6 +57,7 @@ main:
     pdf: https://aclanthology.org/2023.acl-long.563.pdf
     bibtex: ./assets/bib/acl2023.bib
     image: ./assets/img/acl2023.png
+    code: ./assets/slides/acl2023.pdf
 
   - title: "Building a Bridge: A Method for Image-Text Sarcasm Detection Without Pretraining on Image-Text Data"
     authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Xiaowen Sun, Tan Yang, Hongbo Wang
