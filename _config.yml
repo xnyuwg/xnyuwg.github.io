@@ -47,7 +47,6 @@ font: "Serif" # or "Sans Serif"
 
 # The following files will be removed from the generated website.
 exclude:
-  - [vendor]
   - Gemfile
   - Gemfile.lock
   - LICENSE
