@@ -1,9 +1,9 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications <font size=4>(selected)</font></h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications <font size=4>(other)</font></h2>
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.publications2.main %}
 
 <li>
 <div class="pub-row">
