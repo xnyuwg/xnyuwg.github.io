@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications <font size=5>(selected)</font></h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications (selected)</h2>
 
 <div class="publications">
 <ol class="bibliography">
