@@ -24,7 +24,7 @@ main:
   - title: "Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning"
     authors: Hanqi Yan, Qinglin Zhu, <strong style="font-weight:900">Xinyu Wang</strong>, Lin Gui, Yulan He
     conference_short: ACL
-    conference: <strong>ACL'24</strong> | Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics, 2024.
+    conference: <strong>ACL'24</strong> | Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics, 2024.
     page: https://arxiv.org/abs/2402.14963
     pdf: https://arxiv.org/pdf/2402.14963.pdf
     bibtex: ./assets/bib/acl2024hanqi.bib
