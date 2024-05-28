@@ -33,7 +33,7 @@ main:
   - title: "Topic Taxonomy Construction from ESG Reports"
     authors: Saif Majdi AlNajjar, <strong style="font-weight:900">Xinyu Wang</strong>, Yulan He
     conference_short: 'COLING<span style="font-size: 10px;">-FinNLP-KDF-ECONLP</span>'
-    conference: <strong>COLING'24-FinNLP-KDF-ECONLP</strong> | Proceedings of the Joint Workshop of the 7th Financial Technology and Natural Language Processing, the 5th Knowledge Discovery from Unstructured Data in Financial Services, and the 4th Workshop on Economics and Natural Language Processing @ LREC-COLING 2024
+    conference: "<strong>COLING'24-FinNLP-KDF-ECONLP</strong> | <span style='font-size: 16px;'>Proceedings of the Joint Workshop of the 7th Financial Technology and Natural Language Processing, the 5th Knowledge Discovery from Unstructured Data in Financial Services, and the 4th Workshop on Economics and Natural Language Processing @ LREC-COLING 2024</span>"
     page: https://aclanthology.org/2024.finnlp-1.17/
     pdf: https://aclanthology.org/2024.finnlp-1.17.pdf
     bibtex: ./assets/bib/coling2024.bib
