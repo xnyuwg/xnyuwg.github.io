@@ -71,12 +71,3 @@ main:
     pdf: https://aclanthology.org/2020.deelio-1.1.pdf
     bibtex: ./assets/bib/emnlpworkshop2020bxinyu.bib
     image: ./assets/img/emnlpworkshop2020b.png
-
-  - title: "BSENet: A Data-Driven Spatio-Temporal Representation Learning for Base Station Embedding"
-    authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Tan Yang, Yidong Cui, Yuehui Jin, Hongbo Wang
-    conference_short: IEEE Access
-    conference: <strong>IEEE Access'20</strong> | IEEE Access, vol. 8, pp. 51674-51683, 2020.
-    page: https://ieeexplore.ieee.org/document/9035435
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9035435
-    bibtex: ./assets/bib/ieeeaccess2020xinyu.bib
-    image: ./assets/img/ieeeaccess2020.png
