@@ -25,7 +25,7 @@ main:
     authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Hainiu Xu, Lin Gui, Yulan He
     conference_short: ACL
     conference: "<strong>ACL'24</strong> | Findings of the Association for Computational Linguistics: ACL 2024"
-    image: ./assets/img/acl2024.png
+    image: ./assets/img/acl2024_3.png
     page: https://arxiv.org/abs/2402.14522
     pdf: https://arxiv.org/pdf/2402.14522.pdf
     bibtex: ./assets/bib/acl2024xinyu.bib
