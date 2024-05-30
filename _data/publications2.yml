@@ -39,10 +39,18 @@ main:
     bibtex: ./assets/bib/coling2024.bib
     image: ./assets/img/coling2024.png
 
+  - title: "[Book] An Introduction and Hands-On Guide to Natural Language Processing with PyTorch"
+    authors: Xiaowen Sun, <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Tan Yang
+    conference_short: Book
+    conference: Posts and Telecommunications Press, 2022.
+    page: https://www.epubit.com/bookDetails?id=UB7da415821f9de
+#    pdf: https://cread.jd.com/read/startRead.action?bookId=30825405&readType=1
+    image: ./assets/img/book2022.png
+
   - title: "BSENet: A Data-Driven Spatio-Temporal Representation Learning for Base Station Embedding"
     authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Tan Yang, Yidong Cui, Yuehui Jin, Hongbo Wang
     conference_short: IEEE Access
-    conference: <strong>IEEE Access</strong> | IEEE Access, vol. 8, pp. 51674-51683, 2020.
+    conference: IEEE Access, 2020.
     page: https://ieeexplore.ieee.org/document/9035435
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9035435
     bibtex: ./assets/bib/ieeeaccess2020xinyu.bib
