@@ -4,9 +4,11 @@ layout: homepage
 
 Welcome to my personal space! I am currently a PhD student at the [Department of Computer Science](https://warwick.ac.uk/fac/sci/dcs/), [University of Warwick](https://warwick.ac.uk/), and as a visiting PhD student at the [Department of Informatics](https://www.kcl.ac.uk/informatics), [King's College London](https://www.kcl.ac.uk/), under the guidance of [Prof. Yulan He](https://sites.google.com/view/yulanhe/home) and [Dr. Lin Gui](https://sites.google.com/view/lin-gui/).
 
-Before the PhD adventure, I finished my M.S. at Beijing University of Posts and Telecommunications, and my B.E. at both [Queen Mary University of London](https://www.qmul.ac.uk/) and Beijing University of Posts and Telecommunications. Besides that, I also spent a year with the XiaoAi Group at [Xiaomi Inc.](https://www.mi.com/global/) developing [XiaoAi](https://xiaoai.mi.com/) (a virtual assistant comparable to Siri).
+Before the PhD adventure, I finished my M.S. at Beijing University of Posts and Telecommunications, and my B.E. at both [Queen Mary University of London](https://www.qmul.ac.uk/) (First Class Honours) and Beijing University of Posts and Telecommunications. 
 
-My research focuses on Natural Language Processing, especially for long document understanding. In the era of LLM, I am also interested in exploring Large Language Models and Large Multimodal Models.
+Besides that, I had an internship at [IBM Research](https://research.ibm.com/) as Research Intern for two months. I had a full-time work for about one year as Algorithm Engineer at the XiaoAi Group of [Xiaomi](https://www.mi.com/global/) developing [XiaoAi](https://xiaoai.mi.com/) (a virtual assistant comparable to Siri). I will start an internship as Applied Scientist Intern at [Amazon](https://www.amazon.science/) [AWS](https://aws.amazon.com/) in August.
+
+My research focuses on Natural Language Processing and Machine Learning, especially for long document understanding. In the era of LLM, I am also interested in exploring Large Language Models and Large Multimodal Models.
 
 {% include_relative _includes/publications.md %}
 
