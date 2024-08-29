@@ -26,8 +26,8 @@ main:
     conference_short: ACL
     conference: "<strong>ACL'24</strong> | Findings of the Association for Computational Linguistics: ACL 2024"
     image: ./assets/img/acl2024_3.png
-    page: https://arxiv.org/abs/2402.14522
-    pdf: https://arxiv.org/pdf/2402.14522.pdf
+    page: https://aclanthology.org/2024.findings-acl.493/
+    pdf: https://aclanthology.org/2024.findings-acl.493.pdf
     bibtex: ./assets/bib/acl2024xinyu.bib
     slide: ./assets/slides/acl2024xinyu.pdf
 #    code:
