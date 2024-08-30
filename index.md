@@ -12,4 +12,3 @@ Currently, my focus is on long context understanding and efficiency of large lan
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/publications2.md %}
