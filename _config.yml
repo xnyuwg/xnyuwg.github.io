@@ -6,16 +6,16 @@ email: xnyuwang@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: xinyu wang
-description: xinyu wang's homepage
+keywords: Xinyu Wang
+description: Xinyu Wang's homepage
 canonical: https://xnyuwg.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=zUAHqQgAAAAJ
+#google_scholar: https://scholar.google.com/citations?user=zUAHqQgAAAAJ
 #cv_link: assets/files/curriculum_vitae.pdf
 #github_link: https://github.com/
-linkedin: https://www.linkedin.com/in/xinyu-wang-16345413a
+#linkedin: https://www.linkedin.com/in/xinyu-wang-16345413a
 #twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
