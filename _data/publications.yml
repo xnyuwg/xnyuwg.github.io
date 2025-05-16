@@ -23,14 +23,14 @@ main:
 #    image: ./assets/img/teaser_example.png
 
 
-  - title: "GARLIC: LLM-Guided Dynamic Progress Control with Hierarchical Weighted Graph for Long Document QA"
+  - title: "PECAN: LLM-Guided Dynamic Progress Control with Attention-Guided Hierarchical Weighted Graph for Long-Document QA"
     authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Yanzheng Xiang, Lin Gui, Yulan He
-#    conference_short: Preprint
-    conference: "In Submission"
-    image: ./assets/img/i2025.jpg
-    page: https://arxiv.org/abs/2410.04790
-    pdf: https://arxiv.org/pdf/2410.04790
-    bibtex: ./assets/bib/i2025xinyu.bib
+    conference_short: ACL'25
+    conference: "<strong>ACL'25</strong> | Findings of the Association for Computational Linguistics: ACL 2025"
+    image: ./assets/img/acl2025.jpg
+#    page: https://arxiv.org/abs/2410.04790
+#    pdf: https://arxiv.org/pdf/2410.04790
+    bibtex: ./assets/bib/acl2025xinyu.bib
 #    slide: ./assets/slides/acl2024xinyu.pdf
 
   - title: "Towards Unified Task Embeddings Across Multiple Models: Bridging the Gap for Prompt-Based Large Language Models and Beyond"
