@@ -21,9 +21,10 @@ main:
 #    notes: Oral Presentation
 #    image: ./assets/img/teaser_example.png
 
+
   - title: "Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning"
     authors: Hanqi Yan, Qinglin Zhu, <strong style="font-weight:900">Xinyu Wang</strong>, Lin Gui, Yulan He
-    conference_short: ACL
+    conference_short: ACL'24
     conference: <strong>ACL'24</strong> | Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics, 2024.
     page: https://arxiv.org/abs/2402.14963
     pdf: https://arxiv.org/pdf/2402.14963.pdf
@@ -32,7 +33,8 @@ main:
 
   - title: "Topic Taxonomy Construction from ESG Reports"
     authors: Saif Majdi AlNajjar, <strong style="font-weight:900">Xinyu Wang</strong>, Yulan He
-    conference_short: 'COLING<span style="font-size: 10px;">-FinNLP-KDF-ECONLP</span>'
+    conference_short: |
+      COLING'24<span style="font-size: 8px;">-FinNLP-KDF-ECONLP</span>
     conference: "<strong>COLING'24-FinNLP-KDF-ECONLP</strong> | <span style='font-size: 16px;'>Proceedings of the Joint Workshop of the 7th Financial Technology and Natural Language Processing, the 5th Knowledge Discovery from Unstructured Data in Financial Services, and the 4th Workshop on Economics and Natural Language Processing @ LREC-COLING 2024</span>"
     page: https://aclanthology.org/2024.finnlp-1.17/
     pdf: https://aclanthology.org/2024.finnlp-1.17.pdf
@@ -44,14 +46,5 @@ main:
     conference_short: Book
     conference: Posts and Telecommunications Press, 2022.
     page: https://www.epubit.com/bookDetails?id=UB7da415821f9de
-#    pdf: https://cread.jd.com/read/startRead.action?bookId=30825405&readType=1
+    #    pdf: https://cread.jd.com/read/startRead.action?bookId=30825405&readType=1
     image: ./assets/img/book2022.png
-
-  - title: "BSENet: A Data-Driven Spatio-Temporal Representation Learning for Base Station Embedding"
-    authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Tan Yang, Yidong Cui, Yuehui Jin, Hongbo Wang
-    conference_short: IEEE Access
-    conference: IEEE Access, 2020.
-    page: https://ieeexplore.ieee.org/document/9035435
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9035435
-    bibtex: ./assets/bib/ieeeaccess2020xinyu.bib
-    image: ./assets/img/ieeeaccess2020.png

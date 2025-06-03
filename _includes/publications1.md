@@ -1,9 +1,9 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications <span style="font-size: 19px;">(selected)</span></h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">First-Author Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.publications1.main %}
 
 <li>
 <div class="pub-row">

@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications <span style="font-size: 19px;">(continued)</span></h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Co-Authored Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">

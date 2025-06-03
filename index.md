@@ -6,8 +6,11 @@ Welcome to my personal space! I am currently a PhD student at the [Department of
 
 Before the PhD adventure, I finished my M.S. at Beijing University of Posts and Telecommunications, and my B.E. at both [Queen Mary University of London](https://www.qmul.ac.uk/) (First Class Honours) and Beijing University of Posts and Telecommunications. 
 
-Besides that, I had an internship at [IBM Research](https://research.ibm.com/) as Research Intern for two months. I had a full-time work for about one year as Algorithm Engineer at the XiaoAi Group of [Xiaomi](https://www.mi.com/global/) developing [XiaoAi](https://xiaoai.mi.com/) (a virtual assistant comparable to Siri). I had an internship as Applied Scientist Intern at [Amazon](https://www.amazon.science/) [AWS](https://aws.amazon.com/) researching in Large Language Models Serving Efficiency.
+Besides that, I had an internship as Applied Scientist Intern at [Amazon](https://www.amazon.science/) [AWS](https://aws.amazon.com/) researching in Large Language Models Serving Efficiency. Before that, I had a full-time work for about one year as Algorithm Engineer at the XiaoAi Group of [Xiaomi](https://www.mi.com/global/) developing [XiaoAi](https://xiaoai.mi.com/) (a virtual assistant comparable to Siri). I also had an internship at [IBM Research](https://research.ibm.com/) as Research Intern for two months. 
 
-Overall, my focus is on Machine Learning and Natural Language Processing. Currently, I concentrate on Large Language Models (LLMs), with a particular focus on reasoning, efficiency, long-context understanding, and meta-learning. My focus shifted to LLMs in 2024, and prior to that, I worked on long-document understanding and efficiency in Language Models. My master's degree centered on multi-modality and machine reading comprehension.
+[//]: # (Overall, my focus is on Machine Learning and Natural Language Processing. )
+Currently, I concentrate on Large Language Models (LLMs), with a particular focus on Reasoning, Efficiency, Long-Context Understanding. Prior to that, I worked on Long-Context Understanding, Dialogue System and Efficiency. My master's degree centered on Multimodality and Machine Reading Comprehension.
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/publications1.md %}
+
+{% include_relative _includes/publications2.md %}
