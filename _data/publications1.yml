@@ -27,8 +27,8 @@ main:
     conference_short: ACL'25
     conference: "<strong>ACL'25</strong> | Findings of the Association for Computational Linguistics: ACL 2025"
     image: ./assets/img/acl2025.jpg
-    #    page: https://arxiv.org/abs/2410.04790
-    #    pdf: https://arxiv.org/pdf/2410.04790
+    page: https://arxiv.org/abs/2410.04790
+    pdf: https://arxiv.org/pdf/2410.04790
     bibtex: ./assets/bib/acl2025xinyu.bib
   #    slide: ./assets/slides/acl2024xinyu.pdf
 
@@ -41,7 +41,6 @@ main:
     pdf: https://aclanthology.org/2024.findings-acl.493.pdf
     bibtex: ./assets/bib/acl2024xinyu.bib
     slide: ./assets/slides/acl2024xinyu.pdf
-  #    code:
 
   - title: A Scalable Framework for Table of Contents Extraction from Complex ESG Annual Reports
     authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Lin Gui, Yulan He
@@ -52,7 +51,6 @@ main:
     bibtex: ./assets/bib/emnlp2023xinyu.bib
     image: ./assets/img/emnlp2023.jpg
     slide: ./assets/slides/emnlp2023xinyu.pdf
-  #    code: https://github.com/xnyuwg/cmm
 
   - title: Document-Level Multi-Event Extraction with Event Proxy Nodes and Hausdorff Distance Minimization
     authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Lin Gui, Yulan He
@@ -63,7 +61,6 @@ main:
     bibtex: ./assets/bib/acl2023xinyu.bib
     image: ./assets/img/acl2023.png
     slide: ./assets/slides/acl2023xinyu.pdf
-  #    code: https://github.com/xnyuwg/procnet
 
   - title: "Building a Bridge: A Method for Image-Text Sarcasm Detection Without Pretraining on Image-Text Data"
     authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Xiaowen Sun, Tan Yang, Hongbo Wang
