@@ -21,6 +21,14 @@ main:
 #    notes: Oral Presentation
 #    image: ./assets/img/teaser_example.png
 
+  - title: "NOVER: Incentive Training for Language Models via Verifier-Free Reinforcement Learning"
+    authors: Wei Liu, Siya Qi, <strong style="font-weight:900">Xinyu Wang</strong>, Chen Qian, Yali Du, Yulan He
+#    conference_short: ACL'24
+    conference: In submission
+    page: https://arxiv.org/abs/2505.16022
+    pdf: https://arxiv.org/pdf/2505.16022
+    bibtex: ./assets/bib/emnlp2025wei.bib
+    image: ./assets/img/emnlp2025wei.png
 
   - title: "Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning"
     authors: Hanqi Yan, Qinglin Zhu, <strong style="font-weight:900">Xinyu Wang</strong>, Lin Gui, Yulan He
