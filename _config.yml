@@ -20,8 +20,8 @@ canonical: https://xnyuwg.github.io/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.jpg
-favicon: ./assets/img/favicon4.png
+avatar: ./assets/img/avatar2.jpg
+favicon: ./assets/img/face.jpeg
 favicon_dark: ./assets/img/favicon4.png
 
 # Footnote
