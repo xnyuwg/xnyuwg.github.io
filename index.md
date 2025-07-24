@@ -9,7 +9,7 @@ Before the PhD adventure, I finished my M.S. at Beijing University of Posts and 
 Besides that, I had an internship as Applied Scientist Intern at [Amazon](https://www.amazon.science/) [AWS](https://aws.amazon.com/) researching in Large Language Models Serving Efficiency. Before that, I had a full-time work for about one year as Algorithm Engineer at the XiaoAi Group of [Xiaomi](https://www.mi.com/global/) developing [XiaoAi](https://xiaoai.mi.com/) (a virtual assistant comparable to Siri). I also had an internship at [IBM Research](https://research.ibm.com/) as Research Intern for two months. 
 
 [//]: # (Overall, my focus is on Machine Learning and Natural Language Processing. )
-Currently, I concentrate on Large Language Models (LLMs), with a particular focus on Reasoning, Efficiency, Long-Context Understanding. Prior to that, I worked on Long-Context Understanding, Dialogue System and Efficiency. My master's degree centered on Multimodality and Machine Reading Comprehension.
+Currently concentrate on Large Language Models (LLMs), with a particular focus on Reasoning, Multi-Agent, and Efficiency. Previously worked on Long-Context Understanding, Dialogue System and Efficiency. The master's research centered on Multi-modality and Machine Reading Comprehension.
 
 {% include_relative _includes/publications1.md %}
 
