@@ -23,8 +23,8 @@ main:
 
   - title: "NOVER: Incentive Training for Language Models via Verifier-Free Reinforcement Learning"
     authors: Wei Liu, Siya Qi, <strong style="font-weight:900">Xinyu Wang</strong>, Chen Qian, Yali Du, Yulan He
-#    conference_short: ACL'24
-    conference: In submission
+    conference_short: EMNLP'25
+    conference: <strong>EMNLP'25</strong> | Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, 2025.
     page: https://arxiv.org/abs/2505.16022
     pdf: https://arxiv.org/pdf/2505.16022
     bibtex: ./assets/bib/emnlp2025wei.bib
