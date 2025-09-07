@@ -27,8 +27,8 @@ main:
     conference_short: ACL'25
     conference: "<strong>ACL'25</strong> | Findings of the Association for Computational Linguistics: ACL 2025"
     image: ./assets/img/acl2025.jpg
-    page: https://aclanthology.org/2023.acl-long.563/
-    pdf: https://aclanthology.org/2023.acl-long.563.pdf
+    page: https://aclanthology.org/2025.findings-acl.689
+    pdf: https://aclanthology.org/2025.findings-acl.689.pdf
     bibtex: ./assets/bib/acl2025xinyu.bib
   #    slide: ./assets/slides/acl2024xinyu.pdf
 
