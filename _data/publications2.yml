@@ -25,7 +25,7 @@ main:
     authors: Wei Liu, Siya Qi, <strong style="font-weight:900">Xinyu Wang</strong>, Chen Qian, Yali Du, Yulan He
     conference_short: EMNLP'25
     conference: <strong>EMNLP'25</strong> | Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, 2025.
-    page: https://arxiv.org/abs/2505.16022
+#    page: https://arxiv.org/abs/2505.16022
     pdf: https://arxiv.org/pdf/2505.16022
     bibtex: ./assets/bib/emnlp2025wei.bib
     image: ./assets/img/emnlp2025wei.png
@@ -34,7 +34,7 @@ main:
     authors: Hanqi Yan, Qinglin Zhu, <strong style="font-weight:900">Xinyu Wang</strong>, Lin Gui, Yulan He
     conference_short: ACL'24
     conference: <strong>ACL'24</strong> | Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics, 2024.
-    page: https://aclanthology.org/2024.acl-long.382/
+#    page: https://aclanthology.org/2024.acl-long.382/
     pdf: https://aclanthology.org/2024.acl-long.382.pdf
     bibtex: ./assets/bib/acl2024hanqi.bib
     image: ./assets/img/acl2024hanqi.png
@@ -44,7 +44,7 @@ main:
     conference_short: |
       COLING'24<span style="font-size: 8px;">-FinNLP-KDF-ECONLP</span>
     conference: "<strong>COLING'24-FinNLP-KDF-ECONLP</strong> | <span style='font-size: 16px;'>Proceedings of the Joint Workshop of the 7th Financial Technology and Natural Language Processing, the 5th Knowledge Discovery from Unstructured Data in Financial Services, and the 4th Workshop on Economics and Natural Language Processing @ LREC-COLING 2024</span>"
-    page: https://aclanthology.org/2024.finnlp-1.17/
+#    page: https://aclanthology.org/2024.finnlp-1.17/
     pdf: https://aclanthology.org/2024.finnlp-1.17.pdf
     bibtex: ./assets/bib/coling2024.bib
     image: ./assets/img/coling2024.png
@@ -54,5 +54,5 @@ main:
     conference_short: Book
     conference: Posts and Telecommunications Press, 2022.
     page: https://www.epubit.com/bookDetails?id=UB7da415821f9de
-    #    pdf: https://cread.jd.com/read/startRead.action?bookId=30825405&readType=1
+    pdf: https://cread.jd.com/read/startRead.action?bookId=30825405&readType=1
     image: ./assets/img/book2022.png
