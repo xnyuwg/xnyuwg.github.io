@@ -21,6 +21,15 @@ main:
   #    notes: Oral Presentation
   #    image: ./assets/img/teaser_example.png
 
+#  - title: ""
+#    authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Yanzheng Xiang, Lin Gui, Yulan He
+#    conference_short: NeurIPS'25
+#    conference: "<strong>ACL'25</strong> | Findings of the Association for Computational Linguistics: ACL 2025"
+#    image: ./assets/img/acl2025.jpg
+    #    page: https://aclanthology.org/2025.findings-acl.689
+#    pdf: https://arxiv.org/pdf/2410.04790
+#    bibtex: ./assets/bib/acl2025xinyu.bib
+#    slide: ./assets/slides/acl2025xinyu.pdf
 
   - title: "PECAN: LLM-Guided Dynamic Progress Control with Attention-Guided Hierarchical Weighted Graph for Long-Document QA"
     authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Yanzheng Xiang, Lin Gui, Yulan He
@@ -61,31 +70,3 @@ main:
     bibtex: ./assets/bib/emnlp2023xinyu.bib
     image: ./assets/img/emnlp2023.jpg
     slide: ./assets/slides/emnlp2023xinyu.pdf
-
-  - title: "Building a Bridge: A Method for Image-Text Sarcasm Detection Without Pretraining on Image-Text Data"
-    authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Xiaowen Sun, Tan Yang, Hongbo Wang
-    conference_short: EMNLP'20-NLPBT
-    conference: <strong>EMNLP'20-NLPBT</strong> | Proceedings of the First International Workshop on Natural Language Processing Beyond Text, 2020.
-#    page: https://aclanthology.org/2020.nlpbt-1.3/
-    pdf: https://aclanthology.org/2020.nlpbt-1.3.pdf
-    bibtex: ./assets/bib/emnlpworkshop2020axinyu.bib
-    image: ./assets/img/emnlpworkshop2020a.png
-
-  - title: "Correcting the Misuse: A Method for the Chinese Idiom Cloze Test"
-    authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Hongsheng Zhao, Tan Yang, Hongbo Wang
-    conference_short: EMNLP'20-DeeLIO
-    conference: "<strong>EMNLP'20-DeeLIO</strong> | Proceedings of Deep Learning Inside Out: The First Workshop on Knowledge Extraction and Integration for Deep Learning Architectures, 2020."
-#    page: https://aclanthology.org/2020.deelio-1.1/
-    pdf: https://aclanthology.org/2020.deelio-1.1.pdf
-    bibtex: ./assets/bib/emnlpworkshop2020bxinyu.bib
-    image: ./assets/img/emnlpworkshop2020b.png
-
-  - title: "BSENet: A Data-Driven Spatio-Temporal Representation Learning for Base Station Embedding"
-    authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Tan Yang, Yidong Cui, Yuehui Jin, Hongbo Wang
-    conference_short: IEEE Access
-    conference: IEEE Access, 2020.
-#    page: https://ieeexplore.ieee.org/document/9035435
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9035435
-    bibtex: ./assets/bib/ieeeaccess2020xinyu.bib
-    image: ./assets/img/ieeeaccess2020.png
-
