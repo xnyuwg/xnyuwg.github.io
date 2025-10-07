@@ -21,14 +21,14 @@ main:
   #    notes: Oral Presentation
   #    image: ./assets/img/teaser_example.png
 
-#  - title: ""
-#    authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Yanzheng Xiang, Lin Gui, Yulan He
-#    conference_short: NeurIPS'25
-#    conference: "<strong>ACL'25</strong> | Findings of the Association for Computational Linguistics: ACL 2025"
-#    image: ./assets/img/acl2025.jpg
-    #    page: https://aclanthology.org/2025.findings-acl.689
+  - title: "Block-Diagonal LoRA for Eliminating Communication Overhead in Tensor Parallel LoRA Serving"
+    authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Jonas M. Kübler, Kailash Budhathoki, Yida Wang, Matthäus Kleindessner
+    conference_short: NeurIPS'25
+    conference: "<strong>NeurIPS'25</strong> | The Thirty-ninth Annual Conference on Neural Information Processing Systems"
+    image: ./assets/img/neurips2025.jpg
+    page: https://neurips.cc/virtual/2025/poster/120211
 #    pdf: https://arxiv.org/pdf/2410.04790
-#    bibtex: ./assets/bib/acl2025xinyu.bib
+    bibtex: ./assets/bib/acl2025xinyu.bib
 #    slide: ./assets/slides/acl2025xinyu.pdf
 
   - title: "PECAN: LLM-Guided Dynamic Progress Control with Attention-Guided Hierarchical Weighted Graph for Long-Document QA"
