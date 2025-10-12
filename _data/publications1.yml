@@ -36,8 +36,8 @@ main:
     conference_short: ACL'25
     conference: "<strong>ACL'25</strong> | Findings of the Association for Computational Linguistics: ACL 2025"
     image: ./assets/img/acl2025.jpg
-#    page: https://aclanthology.org/2025.findings-acl.689
-    pdf: https://arxiv.org/pdf/2410.04790
+    page: https://aclanthology.org/2025.findings-acl.689
+    # pdf: https://arxiv.org/pdf/2410.04790
     bibtex: ./assets/bib/acl2025xinyu.bib
     slide: ./assets/slides/acl2025xinyu.pdf
 
@@ -46,8 +46,8 @@ main:
     conference_short: ACL'24
     conference: "<strong>ACL'24</strong> | Findings of the Association for Computational Linguistics: ACL 2024"
     image: ./assets/img/acl2024_3.png
-#    page: https://aclanthology.org/2024.findings-acl.493/
-    pdf: https://arxiv.org/pdf/2402.14522
+    page: https://aclanthology.org/2024.findings-acl.493/
+    # pdf: https://arxiv.org/pdf/2402.14522
     bibtex: ./assets/bib/acl2024xinyu.bib
     slide: ./assets/slides/acl2024xinyu.pdf
 
@@ -55,8 +55,8 @@ main:
     authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Lin Gui, Yulan He
     conference_short: ACL'23
     conference: <strong>ACL'23</strong> | Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics, 2023.
-#    page: https://aclanthology.org/2023.acl-long.563/
-    pdf: https://aclanthology.org/2023.acl-long.563.pdf
+    page: https://aclanthology.org/2023.acl-long.563/
+    # pdf: https://aclanthology.org/2023.acl-long.563.pdf
     bibtex: ./assets/bib/acl2023xinyu.bib
     image: ./assets/img/acl2023.png
     slide: ./assets/slides/acl2023xinyu.pdf
@@ -65,8 +65,8 @@ main:
     authors: <strong style="font-weight:900;font-size:19px;">Xinyu Wang</strong>, Lin Gui, Yulan He
     conference_short: EMNLP'23
     conference: <strong>EMNLP'23</strong> | Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, 2023.
-#    page: https://aclanthology.org/2023.emnlp-main.816/
-    pdf: https://aclanthology.org/2023.emnlp-main.816.pdf
+    page: https://aclanthology.org/2023.emnlp-main.816/
+    # pdf: https://aclanthology.org/2023.emnlp-main.816.pdf
     bibtex: ./assets/bib/emnlp2023xinyu.bib
     image: ./assets/img/emnlp2023.jpg
     slide: ./assets/slides/emnlp2023xinyu.pdf
